@@ -4,7 +4,6 @@ This matlab code is designed for the analysis of expansion isotropy betweeen pre
 
 This readme file shows how to properly run the NonRigid Registration code 
 
-**Paper:** Yat Ho Chan et al, ''msiPL: Non-linear Manifold and Peak Learning of Mass Spectrometry Imaging Data Using Artificial Neural Networks, bioRxiv, 2020'' 
 
 **License:** The msiPL code is shared under the 3D Slicer Software License agreement.
 
