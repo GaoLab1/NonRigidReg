@@ -19,7 +19,7 @@ We have implemented this code using the following software items:
 **Installation guide** 
 --------
 
-Download the cold and put the path in the search path of Matlab. Installation time is less than 5 minutes. The code does not require any non-standard hardware to run.
+Download the code and unzip the file to desktop. Put the path in the search path of Matlab. Installation time is less than 5 minutes. The code does not require any non-standard hardware to run.
 	
 **Demo** 
 --------
