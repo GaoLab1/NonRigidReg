@@ -5,8 +5,6 @@ This matlab code is designed for the analysis of expansion isotropy betweeen pre
 This readme file shows how to properly run the NonRigid Registration code 
 
 
-**License:** The msiPL code is shared under the 3D Slicer Software License agreement.
-
 **System requirements** 
 --------
 
