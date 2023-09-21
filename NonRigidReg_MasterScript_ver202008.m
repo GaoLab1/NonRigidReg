@@ -23,8 +23,8 @@
 %%% Enter "imgPair.measResults" after run to make sure it's not empty%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-imgPair.moving.input = imread('H:\CB-3\Normal digest at room temperature\View 4\Post 4-3 500p view 1.tif'); % set to post
-imgPair.static.input = imread(['H:\CB-3\Normal digest at room temperature\View 4\Pre 4-3 500p.tif']); % set to pre; this is ground truth
+imgPair.moving.input = imread('post_expansion_image_here.tif'); % set to post
+imgPair.static.input = imread(['pre_expansion_image_here.tif']); % set to pre; this is ground truth
 imgSize = size(imgPair.moving.input,1);
 
 %% Run 1st Script & Save Workspace
