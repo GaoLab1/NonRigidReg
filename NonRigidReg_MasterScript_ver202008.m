@@ -24,7 +24,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 imgPair.moving.input = imread('post_expansion_image_here.tif'); % set to post
-imgPair.static.input = imread(['pre_expansion_image_here.tif']); % set to pre; this is ground truth
+imgPair.static.input = imread('pre_expansion_image_here.tif'); % set to pre; this is ground truth
 imgSize = size(imgPair.moving.input,1);
 
 %% Run 1st Script & Save Workspace
